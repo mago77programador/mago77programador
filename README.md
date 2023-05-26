@@ -3,7 +3,7 @@
 <p>My name is José and I am a student of programming languages.</p>
 </div>
 
-![imagen1]https://github.com/mago77programador/mago77programador/blob/main/Muy_pronto_en_sus_pantallas.png
+![imagen1](https://github.com/mago77programador/mago77programador/blob/main/Muy_pronto_en_sus_pantallas.png)
 
 <!--
 **mago77programador/mago77programador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
