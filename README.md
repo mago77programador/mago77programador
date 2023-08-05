@@ -16,7 +16,7 @@
 ### Short description
 Introduction to Computer Science: C (functions, variables, conditionals, loops, data structures), how computer memory works. Python. SQL. HTML, CSS and JavaScript.
 
-![imagen1](https://github.com/mago77programador/mago77programador/blob/main/Muy_pronto_en_sus_pantallas.png)
+![cerebro](https://github.com/mago77programador/mago77programador/blob/main/cerebro.png)
 
 <!--
 **mago77programador/mago77programador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
