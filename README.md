@@ -1,7 +1,5 @@
-<div>
 <h2>Hi there 👋</h2>
 <p>My name is José and I am a student of programming languages.</p>
-</div>
 
 ## Technical Skills
 ### CS50’s Introduction to Computer Science
@@ -15,7 +13,8 @@
 - HTML
 - CSS
 
-Short description: Introduction to Computer Science: C (functions, variables, conditionals, loops, data structures), how computer memory works. Python. SQL HTML, CSS and JavaScript.
+### Short description
+Introduction to Computer Science: C (functions, variables, conditionals, loops, data structures), how computer memory works. Python. SQL. HTML, CSS and JavaScript.
 
 ![imagen1](https://github.com/mago77programador/mago77programador/blob/main/Muy_pronto_en_sus_pantallas.png)
 
