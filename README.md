@@ -3,6 +3,20 @@
 <p>My name is José and I am a student of programming languages.</p>
 </div>
 
+## Technical Skills
+### CS50’s Introduction to Computer Science
+<em>Verified certificate from HarvardX</em>
+<p>Start date: 11 de abril de 2023</p>
+<p>End date: 2 de agosto de 2023</p>
+- C
+- Python
+- SQL
+- JavaScript
+- HTML
+- CSS
+
+Short description: Introduction to Computer Science: C (functions, variables, conditionals, loops, data structures), how computer memory works. Python. SQL HTML, CSS and JavaScript.
+
 ![imagen1](https://github.com/mago77programador/mago77programador/blob/main/Muy_pronto_en_sus_pantallas.png)
 
 <!--
